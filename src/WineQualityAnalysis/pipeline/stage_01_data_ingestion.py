@@ -1,7 +1,3 @@
-# from WineQualityAnalysis.config.configuration import ConfigurationManager
-# from WineQualityAnalysis.components.data_ingestion import DataIngestion
-# from WineQualityAnalysis import logger
-
 
 from WineQualityAnalysis.config.configuration import ConfigurationManager
 from WineQualityAnalysis.components.data_ingestion import DataIngestion

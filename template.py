@@ -25,6 +25,7 @@ list_of_files = [
     f"src/{project_name}/constants/__init__.py",
     "research/trials.ipynb",
     "research/01_data_ingestion.ipynb",
+    "research/02_data_validation.ipynb",
     "config/config.yaml",
     "params.yaml",
     "schema.yaml",
